@@ -8,10 +8,10 @@ var config = {
     // =============================================================================
     
     // Positron Light (clean minimal style, perfect for data visualization)
-    tileLayer: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
+    // tileLayer: 'https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png',
     
     // Dark Positron (dark theme)
-    // tileLayer: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+    tileLayer: 'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
     
     // Standard OpenStreetMap (classic map style)
     // tileLayer: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
